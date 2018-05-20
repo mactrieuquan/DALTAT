@@ -1,0 +1,9 @@
+C:\Users\ADMIN\Desktop\SecuritySendMessage\SecuritySendMessage\bin\Debug\SecuritySendMessage.exe.config
+C:\Users\ADMIN\Desktop\SecuritySendMessage\SecuritySendMessage\bin\Debug\SecuritySendMessage.exe
+C:\Users\ADMIN\Desktop\SecuritySendMessage\SecuritySendMessage\bin\Debug\SecuritySendMessage.pdb
+C:\Users\ADMIN\Desktop\SecuritySendMessage\SecuritySendMessage\obj\Debug\Client.Client.resources
+C:\Users\ADMIN\Desktop\SecuritySendMessage\SecuritySendMessage\obj\Debug\SecuritySendMessage.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\SecuritySendMessage\SecuritySendMessage\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\SecuritySendMessage\SecuritySendMessage\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\SecuritySendMessage\SecuritySendMessage\obj\Debug\SecuritySendMessage.exe
+C:\Users\ADMIN\Desktop\SecuritySendMessage\SecuritySendMessage\obj\Debug\SecuritySendMessage.pdb
